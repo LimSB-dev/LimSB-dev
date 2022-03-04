@@ -19,4 +19,4 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Seongbin)](https://velog.io/@mae03087)
 
-[![instagram's GitHub stats](https://instagram-readme-stats.vercel.app/api/badge?name=iOS_ImVV)](https://www.instagram.com/ios_imvv)
+[![instagram's GitHub stats](https://insta-readme-stats.vercel.app/api/badge?name=iOS_ImVV)](https://www.instagram.com/ios_imvv)
