@@ -5,9 +5,12 @@
 <span> 📱 완벽하지 않더라도 결과를 만들어내는 것을 중요하게 생각합니다. </span>
 
 # iOS Projects
+* [Calculator 🧮](https://github.com/CLim01/Calculator)
+* [Landmarks ⛰](https://github.com/CLim01/Landmarks)
+* [Quoto Generator 🖋](https://github.com/CLim01/Quote_Generator)
 * [NumBall 🎮]
 * [Diary 📖]
-* [Calculator 🧮](https://github.com/CLim01/Calculator)
+
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Seongbin)](https://velog.io/@mae03087)
 
