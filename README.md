@@ -13,9 +13,9 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=clim03087)](https://solved.ac/clim03087)
 
-![Seongbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clim01&show_icons=true&theme=material-palenight)
+![Seongbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clim01&show_icons=true&theme=material-gold)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clim01&layout=compact&theme=material-palenight&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clim01&layout=compact&theme=material-gold&langs_count=8)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Seongbin)](https://velog.io/@mae03087)
 
