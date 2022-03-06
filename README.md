@@ -9,7 +9,7 @@
 * [Landmarks ⛰](https://github.com/CLim01/Landmarks)
 * [Quoto Generator 🖋](https://github.com/CLim01/Quote_Generator)
 * [NumBall 🎮]
-* [Diary 📖]
+* [Diary 📖](https://github.com/CLim01/Diary)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=clim03087)](https://solved.ac/clim03087)
 
