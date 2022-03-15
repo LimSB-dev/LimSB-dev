@@ -1,7 +1,7 @@
 # Hi there! 👋🏻
 
-<span> ✉️ Contact : mae03087@naver.com </span> <br>
-<span> 📱 UI에 관심이 많은 부지런한 iOS 개발자, 임성빈입니다. </span> <br>
+<span> ✉️ Contact : mae03087@naver.com </span> <br><br>
+<span> 📱 UI에 관심이 많은 부지런한 iOS 개발자, 임성빈입니다. </span> <br><br>
 <span> 🔎 완벽하지 않더라도 결과를 만들어내는 것을 중요하게 생각합니다. </span>
 
 # iOS Projects
@@ -11,6 +11,10 @@
 * [NumBall 🎮](https://github.com/CLim01/NumberBaseball)
 * [Diary 📖](https://github.com/CLim01/Diary)
 
+# SwiftUI Projects
+* [About Me 🧑🏻‍💻](https://github.com/CLim01/About_Me)
+
+---
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=clim03087)](https://solved.ac/clim03087) -->
 
 ![Seongbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clim01&show_icons=true&theme=material-gold)
