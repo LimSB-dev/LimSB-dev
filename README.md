@@ -12,7 +12,7 @@
 * [Diary 📖](https://github.com/CLim01/Diary)
 
 # SwiftUI Projects
-* [About Me 🧑🏻‍💻](https://github.com/CLim01/About_Me)
+* [About Me 🧑🏻‍💻](https://github.com/CLim01/About-Me)
 
 ---
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=clim03087)](https://solved.ac/clim03087) -->
