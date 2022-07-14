@@ -19,7 +19,7 @@
 * [Diary 📖](https://github.com/CLim01/Diary)
 
 ---
-<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=clim03087)](https://solved.ac/clim03087) -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=clim03087)](https://solved.ac/clim03087)
 
 ![Seongbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clim01&show_icons=true&theme=material-gold)
 
