@@ -6,10 +6,10 @@
 <br>
 <span> 🔎 완벽하지 않더라도 결과를 만들어내는 것을 중요하게 생각합니다. </span>
 
-<div align=center><h1>📚 STACKS</h1></div>
+# STACKS 🛠️
 <div align=center> 
-  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
