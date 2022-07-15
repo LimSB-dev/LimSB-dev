@@ -21,7 +21,7 @@
 
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=clim03087)](https://solved.ac/clim03087)
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=clim03087)](https://solved.ac/clim03087)
 
 ![Seongbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimSB-dev&show_icons=true&theme=material-gold)
 
@@ -29,7 +29,6 @@
 
 ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Seongbin)
 
-```null
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-```
 
