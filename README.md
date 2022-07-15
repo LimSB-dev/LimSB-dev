@@ -7,7 +7,7 @@
 <span> 🔎 완벽하지 않더라도 결과를 만들어내는 것을 중요하게 생각합니다. </span>
 
 # STACKS 🛠️
-<div align=center> 
+<div> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
   <br>
