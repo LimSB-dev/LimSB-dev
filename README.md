@@ -19,11 +19,10 @@
 * [Quoto Generator 🖋](https://github.com/CLim01/Quote_Generator)
 * [Diary 📖](https://github.com/CLim01/Diary)
 
-
+<div>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=clim03087)](https://solved.ac/clim03087)
 
-<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimSB-dev&layout=compact&theme=dark&langs_count=8)
 
