@@ -20,9 +20,10 @@
 * [Diary 📖](https://github.com/CLim01/Diary)
 
 
-<div align="center">
-![[Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=clim03087)](https://solved.ac/clim03087)
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=clim03087)](https://solved.ac/clim03087)
+
+<div align="right">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimSB-dev&layout=compact&theme=dark&langs_count=8)
 </div>
 
