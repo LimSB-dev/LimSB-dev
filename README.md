@@ -1,3 +1,4 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&color=timeauto&text=Lim%20Seongbin&fontColor=077777&fontAlignY=30&fontSize=40&height=150&desc=Front-End%20Developer&descAlignY=70&animation=twinkling)
 # Hi there! 👋🏻
 
 <span> ✉️ Contact : mae03087@naver.com </span> <br>
