@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&color=timeauto&text=Lim%20Seongbin&fontColor=077777&fontAlignY=30&fontSize=40&height=150&desc=Front-End%20Developer&descAlignY=70&animation=twinkling)
+![waving](https://capsule-render.vercel.app/api?type=waving&color=344765:344765,4F6188:4F6188&text=Lim%20Seongbin&fontColor=BBC8CA&fontAlign=80&fontAlignY=30&fontSize=40&height=180&desc=Front-End%20Developer&descAlign=84&descAlignY=55&animation=fadeIn)
 # Hi there! 👋🏻
 
 <span> ✉️ Contact : mae03087@naver.com </span> <br>
@@ -31,6 +31,22 @@
 
 # Stats 🔍
 <div align="center">
+
+|                                                       Solved.ac                                                        |                                                             Languages                                                              |
+| :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
+| [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=clim03087)](https://solved.ac/profile/clim03087) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimSB-dev&layout=compact&theme=prussian&langs_count=8) |
+
+| ![LimSB-dev's github stats](https://github-readme-stats.vercel.app/api?username=LimSB-dev&show_icons=true&theme=prussian) |
+| :-----------------------------------------------------------------------------------------------------------------------: |
+
+
+</div>
+<br>
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLimSB-dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 |                                                       Solved.ac                                                        |                                                           Languages                                                            |
 | :--------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
