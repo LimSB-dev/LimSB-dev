@@ -45,6 +45,6 @@
 
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLimSB-dev&count_bg=%2379C83D&title_bg=%23344765&icon=&icon_color=%23344765&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLimSB-dev&count_bg=%23344765&title_bg=%23102040&icon=&icon_color=%23344765&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
