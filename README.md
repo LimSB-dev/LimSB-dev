@@ -3,7 +3,7 @@
 
 <span> ✉️ Contact : mae03087@naver.com </span> <br>
 <br>
-<span> 📱 UI／UX 에 관심이 많은 개발자, 임성빈입니다. </span> <br>
+<span> 🖥️ UI／UX 에 관심이 많은 개발자, 임성빈입니다. </span> <br>
 <br>
 <span> ⭐️ 완벽하지 않더라도 결과를 만들어내는 것을 중요하게 생각합니다. </span>
 
