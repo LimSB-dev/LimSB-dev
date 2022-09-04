@@ -1,7 +1,6 @@
 [![waving](https://capsule-render.vercel.app/api?type=waving&color=344765:344765,4F6188:4F6188&text=Lim%20Seongbin&fontColor=BBC8CA&fontAlign=80&fontAlignY=30&fontSize=40&height=180&desc=Front-End%20Developer&descAlign=84&descAlignY=55&animation=fadeIn)](https://github.com/kyechan99/capsule-render)
 # Hi there! 👋🏻
 
-<span> ✉️ Contact : mae03087@naver.com </span> <br>
 <br>
 <span> 🖥️ UI／UX 에 관심이 많은 개발자, 임성빈입니다. </span> <br>
 <br>
